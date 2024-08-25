@@ -135,4 +135,4 @@ def serve_file(file_id):
         return jsonify({"error": str(e)}), 404
 
 if __name__ == '__main__':
-    app.run(debug=True, port=8080)
+    app.run()
