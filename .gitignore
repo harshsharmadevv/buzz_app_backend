@@ -1,0 +1,21 @@
+# Python
+*.pyc
+__pycache__/
+
+# Virtual Environment
+venv/
+env/
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.suo
+*.ntvs_analysis.dat
+*.ncb
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Environment Variables
+.env
